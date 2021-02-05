@@ -1,5 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://mfunaki.visualstudio.com/ContosoAir/_apis/build/status/mfunaki.ContosoAir?branchName=master)](https://mfunaki.visualstudio.com/ContosoAir/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
